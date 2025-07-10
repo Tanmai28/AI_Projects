@@ -27,7 +27,7 @@ A simple structured dataset containing:
 
 ## 📊 Visualization
 The output includes a **scatter plot** that visually differentiates sanctioned vs non-sanctioned loans based on Age and Loan Amount.
-![image](https://github.com/user-attachments/assets/127808df-daec-4332-b3c5-168990027ec3)
+
 
 
 ---
