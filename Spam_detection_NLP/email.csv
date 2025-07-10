@@ -1,0 +1,18 @@
+
+text,label
+Congratulations! You've won a $1000 Walmart gift card. Go to http://bit.ly/123456 to claim now.,spam
+"Hi John, can we reschedule our meeting to next week?",not_spam
+URGENT! Your account has been compromised. Call 123-456-7890 immediately.,spam
+"Dear customer, your invoice is attached. Please review and let us know if you have any questions.",not_spam
+Win a brand new car by clicking this link: http://winacar.com,spam
+Lunch at 1pm today?,not_spam
+Limited time offer! Buy now and save 50%. Visit http://sale.com,spam
+"Hey, just checking in. How are you?",not_spam
+You have been selected for a free cruise to the Bahamas! Call now!,spam
+Project update: The code is ready for review.,not_spam
+Exclusive deal just for you! Click here: http://exclusive.com,spam
+Can you send me the report by EOD?,not_spam
+Free entry in 2 a weekly competition to win FA Cup final tickets. Text FA to 12345 to enter.,spam
+Let's catch up over coffee tomorrow.,not_spam
+Your loan is approved! Call 800-555-1234 for details.,spam
+Reminder: Your appointment is scheduled for tomorrow at 10am.,not_spam
