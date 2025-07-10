@@ -24,10 +24,16 @@ A simple structured dataset containing:
 - Given a new customer with `Age` and `LoanAmount`, the model predicts if the **loan will be sanctioned or not**
 
 ---
+### Prediction
+Accuracy: 1.0
+Loan Sanctioned
+
+---
 
 ## 📊 Visualization
 The output includes a **scatter plot** that visually differentiates sanctioned vs non-sanctioned loans based on Age and Loan Amount.
 
+![Screenshot 2025-07-10 122158](https://github.com/user-attachments/assets/0a825d87-7224-456b-a388-7b81d8748ffa)
 
 
 ---
