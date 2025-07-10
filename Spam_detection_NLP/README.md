@@ -26,3 +26,13 @@
    - Train a **Multinomial Naive Bayes** classifier  
    - Learn to predict whether an email is `SPAM` or `NOT SPAM`  
    - Evaluate performance using accuracy and classification metrics
+
+## 📁 Project Structure
+
+spam-detector-nlp/
+├── emails.csv # Sample dataset with email text and labels
+├── spam_detector.py # Main Python script: preprocessing, training, predicting
+├── README.md # Project documentation
+└── Output # Sample output
+
+
